@@ -1,0 +1,962 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.17)  15 AUG 2022 11:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Smeared_bbtt->X_Mass.tex
+(./Smeared_bbtt->X_Mass.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box50
+\extrarowheight=\dimen143
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count195
+\@vwid@loff=\dimen144
+\@vwid@roff=\dimen145
+)
+\c@taburow=\count196
+\tabu@nbcols=\count197
+\tabu@cnt=\count198
+\tabu@Xcol=\count199
+\tabu@alloc=\count266
+\tabu@nested=\count267
+\tabu@target=\dimen146
+\tabu@spreadtarget=\dimen147
+\tabu@naturalX=\dimen148
+\tabucolX=\dimen149
+\tabu@Xsum=\dimen150
+\extrarowdepth=\dimen151
+\abovetabulinesep=\dimen152
+\belowtabulinesep=\dimen153
+\tabustrutrule=\dimen154
+\tabu@thebody=\toks18
+\tabu@footnotes=\toks19
+\tabu@box=\box53
+\tabu@arstrutbox=\box54
+\tabu@hleads=\box55
+\tabu@vleads=\box56
+\tabu@cellskip=\skip51
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count268
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box57
+\rot@mess@toks=\toks20
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count269
+\multirow@dima=\skip55
+\bigstrutjot=\dimen155
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen156
+\captionmargin=\dimen157
+\caption@leftmargin=\dimen158
+\caption@rightmargin=\dimen159
+\caption@width=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count270
+\c@continuedfloat=\count271
+Package caption Info: rotating package is loaded.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks21
+\verbatim@line=\toks22
+\verbatim@in@stream=\read3
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count272
+\c@subtable=\count273
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count274
+\cp@tempcnt=\count275
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2020/09/26 v1.10
+
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX3 on input line 61.
+\TP@textbox=\box58
+\TPHorizModule=\dimen164
+\TPVertModule=\dimen165
+\TP@margin=\dimen166
+\TP@absmargin=\dimen167
+Grid set 16 x 16 = 38.39343pt x 49.68562pt
+\TPboxrulesize=\dimen168
+\TP@tbargs=\toks23
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen169
+\lightrulewidth=\dimen170
+\cmidrulewidth=\dimen171
+\belowrulesep=\dimen172
+\belowbottomsep=\dimen173
+\aboverulesep=\dimen174
+\abovetopsep=\dimen175
+\cmidrulesep=\dimen176
+\cmidrulekern=\dimen177
+\defaultaddspace=\dimen178
+\@cmidla=\count276
+\@cmidlb=\count277
+\@aboverulesep=\dimen179
+\@belowrulesep=\dimen180
+\@thisruleclass=\count278
+\@lastruleclass=\count279
+\@thisrulewidth=\dimen181
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen182
+\pgfutil@tempdimb=\dimen183
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen184
+\pgf@y=\dimen185
+\pgf@xa=\dimen186
+\pgf@ya=\dimen187
+\pgf@xb=\dimen188
+\pgf@yb=\dimen189
+\pgf@xc=\dimen190
+\pgf@yc=\dimen191
+\pgf@xd=\dimen192
+\pgf@yd=\dimen193
+\w@pgf@writea=\write3
+\r@pgf@reada=\read4
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+\pgf@sys@id@count=\count284
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count285
+\pgfsyssoftpath@bigbuffer@items=\count286
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen194
+\pgfmath@count=\count287
+\pgfmath@box=\box60
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count288
+)) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen195
+\pgf@picmaxx=\dimen196
+\pgf@picminy=\dimen197
+\pgf@picmaxy=\dimen198
+\pgf@pathminx=\dimen199
+\pgf@pathmaxx=\dimen256
+\pgf@pathminy=\dimen257
+\pgf@pathmaxy=\dimen258
+\pgf@xx=\dimen259
+\pgf@xy=\dimen260
+\pgf@yx=\dimen261
+\pgf@yy=\dimen262
+\pgf@zx=\dimen263
+\pgf@zy=\dimen264
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen265
+\pgf@path@lasty=\dimen266
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen267
+\pgf@shorten@start@additional=\dimen268
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count289
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen269
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen270
+\pgf@pt@y=\dimen271
+\pgf@pt@temp=\dimen272
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen273
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen274
+\pgf@sys@shading@range@num=\count290
+\pgf@shadingcount=\count291
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box64
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box65
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen275
+\pgf@nodesepend=\dimen276
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen277
+\pgffor@skip=\dimen278
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count292
+\pgfplotmarksize=\dimen279
+)
+\tikz@lastx=\dimen280
+\tikz@lasty=\dimen281
+\tikz@lastxsaved=\dimen282
+\tikz@lastysaved=\dimen283
+\tikz@lastmovetox=\dimen284
+\tikz@lastmovetoy=\dimen285
+\tikzleveldistance=\dimen286
+\tikzsiblingdistance=\dimen287
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count293
+\tikznumberofchildren=\count294
+\tikznumberofcurrentchild=\count295
+\tikz@fig@count=\count296
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count297
+\pgfmatrixcurrentcolumn=\count298
+\pgf@matrix@numberofcolumns=\count299
+)
+\tikz@expandcount=\count300
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tikz-feynman/tikz-feynman.sty
+Package: tikz-feynman 2016/02/05v1.1.0Feynman diagrams with TikZ
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks36
+\pgfopts@list@add@b@toks=\toks37
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tikz-feynman/tikzlibraryfeynman.c
+ode.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen288
+\pgfarrowlength=\dimen289
+\pgfarrowwidth=\dimen290
+\pgfarrowlinewidth=\dimen291
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen292
+\pgfdecoratedremainingdistance=\dimen293
+\pgfdecoratedinputsegmentcompleteddistance=\dimen294
+\pgfdecoratedinputsegmentremainingdistance=\dimen295
+\pgf@decorate@distancetomove=\dimen296
+\pgf@decorate@repeatstate=\count301
+\pgfdecorationsegmentamplitude=\dimen297
+\pgfdecorationsegmentlength=\dimen298
+)
+\tikz@lib@dec@box=\box70
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.markings.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.markings.code.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/graphs/tikzlibrarygraphs.code.tex
+File: tikzlibrarygraphs.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\tikz@lib@auto@number=\count302
+\tikz@qnode@count=\count303
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibrarypattern
+s.code.tex
+File: pgflibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tikz-feynman/tikzfeynman.keys.cod
+e.tex))) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count304
+\Gm@cntv=\count305
+\c@Gm@tempcnt=\count306
+\Gm@bindingoffset=\dimen299
+\Gm@wd@mp=\dimen300
+\Gm@odd@mp=\dimen301
+\Gm@even@mp=\dimen302
+\Gm@layoutwidth=\dimen303
+\Gm@layoutheight=\dimen304
+\Gm@layouthoffset=\dimen305
+\Gm@layoutvoffset=\dimen306
+\Gm@dimlist=\toks38
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count307
+\l__pdf_internal_box=\box71
+)
+
+LaTeX Warning: Unused global option(s):
+    [a4wide].
+
+(./Smeared_bbtt->X_Mass.aux)
+\openout1 = `Smeared_bbtt->X_Mass.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen307
+\scratchbox=\box72
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen308
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks40
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen309
+\caption@adjustwidth@linewidth=\dimen310
+Package caption Info: End \AtBeginDocument code.
+
+
+Package tikz-feynman Warning: LuaTeX is required if you wish to have vertices a
+utomatically placed. You can disable this warning by setting /tikzfeynman/warn 
+luatex=false on input line 22.
+
+
+Package tikz-feynman Warning: The preamble requested version 1.0.0, but the sys
+tem version is 1.1.0. This may change some diagrams. on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(21.68121pt, 570.93257pt, 21.68121pt)
+* v-part:(T,H,B)=(21.68121pt, 751.60756pt, 21.68121pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=570.93257pt
+* \textheight=751.60756pt
+* \oddsidemargin=-50.58878pt
+* \evensidemargin=-50.58878pt
+* \topmargin=-87.58878pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=4, page=1, 569.12625pt x 38
+5.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 1>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+ used on input line 23.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=5, page=2, 569.12625pt x 38
+5.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 2>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page2
+ used on input line 24.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=6, page=3, 569.12625pt x 38
+5.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 3>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page3
+ used on input line 25.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=7, page=4, 569.12625pt x 38
+5.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 4>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page4
+ used on input line 26.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=8, page=5, 569.12625pt x 38
+5.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 5>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page5
+ used on input line 27.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=9, page=6, 569.12625pt x 38
+5.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 6>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page6
+ used on input line 28.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=10, page=7, 569.12625pt x 3
+85.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 7>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page7
+ used on input line 29.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=11, page=8, 569.12625pt x 3
+85.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 8>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page8
+ used on input line 30.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=12, page=9, 569.12625pt x 3
+85.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 9>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page9
+ used on input line 31.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=13, page=10, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 10>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+0 used on input line 32.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=14, page=11, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 11>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+1 used on input line 33.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=15, page=12, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 12>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+2 used on input line 34.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=16, page=13, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 13>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+3 used on input line 35.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=17, page=14, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 14>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+4 used on input line 36.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=18, page=15, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 15>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+5 used on input line 37.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=19, page=16, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 16>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+6 used on input line 38.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=20, page=17, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 17>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+7 used on input line 39.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=21, page=18, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 18>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+8 used on input line 40.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=22, page=19, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 19>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page1
+9 used on input line 41.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+<../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, id=23, page=20, 569.12625pt x 
+385.44pt>
+File: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf Graphic file (type pdf)
+<use ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page 20>
+Package pdftex.def Info: ../Pdfs/Smeared_bbtt->X_Mass_VaryingWidths.pdf , page2
+0 used on input line 42.
+(pdftex.def)             Requested size: 284.56242pt x 192.71953pt.
+
+Overfull \hbox (15.41449pt too wide) in paragraph at lines 23--43
+[][] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] []
+ []
+
+
+Overfull \hbox (0.41449pt too wide) in paragraph at lines 23--43
+[] [] 
+ []
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../Pdfs
+/Smeared_bbtt->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/S
+meared_bbtt->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Sme
+ared_bbtt->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smear
+ed_bbtt->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared
+_bbtt->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_b
+btt->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees>] [2 <../Pdfs/Smeared
+_bbtt->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_b
+btt->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbt
+t->X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt-
+>X_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt->X
+_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt->X_M
+ass_VaryingWidths.pdf, page is rotated 90 degrees>] [3 <../Pdfs/Smeared_bbtt->X
+_Mass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt->X_M
+ass_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt->X_Mas
+s_VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt->X_Mass_
+VaryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt->X_Mass_Va
+ryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt->X_Mass_Vary
+ingWidths.pdf, page is rotated 90 degrees>] [4 <../Pdfs/Smeared_bbtt->X_Mass_Va
+ryingWidths.pdf, page is rotated 90 degrees> <../Pdfs/Smeared_bbtt->X_Mass_Vary
+ingWidths.pdf, page is rotated 90 degrees>] (./Smeared_bbtt->X_Mass.aux) ) 
+Here is how much of TeX's memory you used:
+ 19355 strings out of 478268
+ 421840 string characters out of 5846347
+ 713066 words of memory out of 5000000
+ 37225 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,5n,90p,422b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr
+/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Smeared_bbtt->X_Mass.pdf (4 pages, 266102 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+
